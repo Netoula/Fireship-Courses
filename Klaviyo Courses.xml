@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0000FF" ss:FontName="Arial" ss:Size="10" ss:Underline="Single" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Business Data Feed">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="14" ss:ExpandedColumnCount="7">
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">id</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">title</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">image_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">categories</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">description</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">price</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">nextjs_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Next.js Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/nextjs/"><Data ss:Type="String">https://fireship.io/courses/nextjs/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/nextjs.png"><Data ss:Type="String">https://fireship.io/img/courses/nextjs.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Web Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://nextjs.org/blog/next-13-2"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">Next.js - The Full Course provides a in-depth look into the </Font></U><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Next.js App Router</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10">, including its ability to support multiple rendering modes and data-fetching strategies. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.</Font></ss:Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">deno_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Deno Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/deno/"><Data ss:Type="String">https://fireship.io/courses/deno/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/deno.png"><Data ss:Type="String">https://fireship.io/img/courses/deno.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Backend Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://kit.svelte.dev/"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">Deno - The Full Course is a hands-on tutorial where you will build a complete web app with </Font></U><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Deno</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10">, using zero 3rd-party denpendices to master TypeScript and Web Platform APIs.</Font></ss:Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">sveltekit_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SvelteKit Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/sveltekit/"><Data ss:Type="String">https://fireship.io/courses/sveltekit/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/sveltekit.png"><Data ss:Type="String">https://fireship.io/img/courses/sveltekit.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Frontend Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://kit.svelte.dev/"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with </Font></U><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">SvelteKit</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10"> and Firebase - the so-called FKIT stack.</Font></ss:Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">linux_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Linux Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/linux/"><Data ss:Type="String">https://fireship.io/courses/linux/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/linux.png"><Data ss:Type="String">https://fireship.io/img/courses/linux.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Operating Systems</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (VPS).</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">stripe_saas_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Stripe for SaaS</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/stripe-saas/"><Data ss:Type="String">https://fireship.io/courses/stripe-saas/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/stripe-saas.png"><Data ss:Type="String">https://fireship.io/img/courses/stripe-saas.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Payments</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://stripe.com/"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">Stripe for SaaS Full Course is a hands-on tutorial where you will build a monetized web app with </Font></U><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Stripe</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10">, </Font><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Next.js</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10"> and </Font><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Supabase</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10">.</Font></ss:Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">modern_js_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Modern JavaScript Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/js/"><Data ss:Type="String">https://fireship.io/courses/js/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/js.png"><Data ss:Type="String">https://fireship.io/img/courses/js.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Programming</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript.</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">nextjs_firebase_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Next.js Firebase Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/react-next-firebase/"><Data ss:Type="String">https://fireship.io/courses/react-next-firebase/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/react-next-firebase.png"><Data ss:Type="String">https://fireship.io/img/courses/react-next-firebase.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Web Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime data from Firebase and multiple server-side rendering paradigms with Next.js</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">flutter_firebase_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Flutter Firebase</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/flutter-firebase/"><Data ss:Type="String">https://fireship.io/courses/flutter-firebase/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/flutter-firebase.png"><Data ss:Type="String">https://fireship.io/img/courses/flutter-firebase.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Mobile Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure.</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">dart_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Dart 101</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/dart/"><Data ss:Type="String">https://fireship.io/courses/dart/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/dart.png"><Data ss:Type="String">https://fireship.io/img/courses/dart.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Programming</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Dart - The Full Course is designed to teach you the fundamentals of the Dart language to prepare you for a successful journey into Flutter.</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">10</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">git_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Git &amp; GitHub Full Course</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/git/"><Data ss:Type="String">https://fireship.io/courses/git/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/git.png"><Data ss:Type="String">https://fireship.io/img/courses/git.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Version Control</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Git, GitHub, version control, software development</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">10</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">firebase_security_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Firebase Security</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/firebase-security/"><Data ss:Type="String">https://fireship.io/courses/firebase-security/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/firebase-security.png"><Data ss:Type="String">https://fireship.io/img/courses/firebase-security.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Security</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules. The goal is to prepare developers for the safe and secure launch of a Firebase project.</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">10</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">angular_firebase_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Angular Firebase Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/angular/"><Data ss:Type="String">https://fireship.io/courses/angular/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/angular-firebase.png"><Data ss:Type="String">https://fireship.io/img/courses/angular-firebase.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Web Development</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">The Angular Firebase PWA Course will teach you how to build a complex progressive web app with Angular 12 (ivy), Material Design, and Firebase. It starts from absolute basics and eventually culminates with the deployment of a server-rendered PWA on Google Cloud Run.</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">20</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S22"><Data ss:Type="String">firestore_modeling_course</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Firestore Data Modeling</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/courses/firestore-data-modeling/"><Data ss:Type="String">https://fireship.io/courses/firestore-data-modeling/</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://fireship.io/img/courses/firestore-data-modeling.png"><Data ss:Type="String">https://fireship.io/img/courses/firestore-data-modeling.png</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Database</Data>
+    </Cell>
+    <Cell ss:StyleID="S23" ss:HRef="https://firebase.google.com/docs/firestore/"><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Face="Arial" html:Color="#0000FF" html:Size="10">The Firestore Data Modeling Course provides a foundation for modeling data relationships in NoSQL, while optimizing queries for performance, cost, and complexity. Determining the optimal data model in </Font></U><U><Font html:Face="sofia-pro, sans-serif" html:Color="#1155CC" html:Size="12">Cloud Firestore</Font></U><Font html:Face="Arial" html:Color="#000000" html:Size="10"> is not an easy task because you need to anticipate your app’s UI/UX requirements in advance. Failure to consider the tradeoffs between various data models could lead to poor app performance and/or unnecessary cloud computing expenses. The goal of this course is to teach you the concepts necessary to make good decisions related to data modeling that minimize costs and maximize read performance.</Font></ss:Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">10</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
