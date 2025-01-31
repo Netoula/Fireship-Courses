@@ -2,58 +2,58 @@
 <Records>
     <Row ID="nextjs_course" Title="Next.js Full Course" Link="https://fireship.io/courses/nextjs/"
         ImageLink="https://fireship.io/img/courses/nextjs.png" Categories="Web Development"
-        Description="Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma."
+        Description="<![CDATA[Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies. It puts...]]>"
         Price="20" />
     <Row ID="deno_course" Title="Deno Full Course" Link="https://fireship.io/courses/deno/"
         ImageLink="https://fireship.io/img/courses/deno.png" Categories="Backend Development"
-        Description="Deno - The Full Course is a hands-on tutorial where you will build a complete web app with Deno, using zero 3rd-party dependencies to master TypeScript and Web Platform APIs."
+        Description="<![CDATA[Deno - The Full Course is a hands-on tutorial where you will build a complete web app with Deno, using zero 3rd-party dependencies to master TypeScript and Web Platform APIs.]]>"
         Price="20" />
     <Row ID="sveltekit_course" Title="SvelteKit Full Course" Link="https://fireship.io/courses/sveltekit/"
         ImageLink="https://fireship.io/img/courses/sveltekit.png" Categories="Frontend Development"
-        Description="SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase - the so-called FKIT stack."
+        Description="<![CDATA[SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase - the so-called FKIT stack.]]>"
         Price="20" />
     <Row ID="linux_course" Title="Linux Full Course" Link="https://fireship.io/courses/linux/"
         ImageLink="https://fireship.io/img/courses/linux.png" Categories="Operating Systems"
-        Description="Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (VPS)."
+        Description="<![CDATA[Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (...]]>"
         Price="20" />
     <Row ID="stripe_saas_course" Title="Stripe for SaaS" Link="https://fireship.io/courses/stripe-saas/"
         ImageLink="https://fireship.io/img/courses/stripe-saas.png" Categories="Payments"
-        Description="Stripe for SaaS Full Course is a hands-on tutorial where you will build a monetized web app with Stripe, Next.js, and Supabase."
+        Description="<![CDATA[Stripe for SaaS Full Course is a hands-on tutorial where you will build a monetized web app with Stripe, Next.js, and Supabase.]]>"
         Price="20" />
     <Row ID="modern_js_course" Title="Modern JavaScript Full Course" Link="https://fireship.io/courses/js/"
         ImageLink="https://fireship.io/img/courses/js.png" Categories="Programming"
-        Description="The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript."
+        Description="<![CDATA[The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript.]]>"
         Price="20" />
     <Row ID="nextjs_firebase_course" Title="Next.js Firebase Full Course"
         Link="https://fireship.io/courses/react-next-firebase/"
         ImageLink="https://fireship.io/img/courses/react-next-firebase.png" Categories="Web Development"
-        Description="Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime data from Firebase and multiple server-side rendering paradigms with Next.js."
+        Description="<![CDATA[Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime dat...]]>"
         Price="20" />
     <Row ID="flutter_firebase_course" Title="Flutter Firebase" Link="https://fireship.io/courses/flutter-firebase/"
         ImageLink="https://fireship.io/img/courses/flutter-firebase.png" Categories="Mobile Development"
-        Description="Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure."
+        Description="<![CDATA[Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure.]]>"
         Price="20" />
     <Row ID="dart_course" Title="Dart 101" Link="https://fireship.io/courses/dart/"
         ImageLink="https://fireship.io/img/courses/dart.png" Categories="Programming"
-        Description="Dart - The Full Course is designed to teach you the fundamentals of the Dart language to prepare you for a successful journey into Flutter."
+        Description="<![CDATA[Dart - The Full Course is designed to teach you the fundamentals of the Dart language to prepare you for a successful journey into Flutter.]]>"
         Price="10" />
     <Row ID="git_course" Title="Git &amp; GitHub Full Course" Link="https://fireship.io/courses/git/"
         ImageLink="https://fireship.io/img/courses/git.png" Categories="Version Control"
-        Description="The Git &amp; GitHub Full Course teaches you how to use Git for version control, collaborate on GitHub, and improve your software development workflow."
+        Description="<![CDATA[The Git &amp; GitHub Full Course teaches you how to use Git for version control, collaborate on GitHub, and improve your software development workflow.]]>"
         Price="10" />
     <Row ID="firebase_security_course" Title="Firebase Security"
         Link="https://fireship.io/courses/firebase-security/"
         ImageLink="https://fireship.io/img/courses/firebase-security.png" Categories="Security"
-        Description="Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules. The goal is to prepare developers for the safe and secure launch of a Firebase project."
+        Description="<![CDATA[Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules. The goal is to prepare developers for the safe and secure launch ...]]>"
         Price="10" />
     <Row ID="angular_firebase_course" Title="Angular Firebase Project"
         Link="https://fireship.io/courses/angular/"
         ImageLink="https://fireship.io/img/courses/angular-firebase.png" Categories="Web Development"
-        Description="The Angular Firebase PWA Course will teach you how to build a complex progressive web app with Angular 12 (ivy), Material Design, and Firebase. It starts from absolute basics and eventually culminates with the deployment of a server-rendered PWA on Google Cloud Run."
+        Description="<![CDATA[The Angular Firebase PWA Course will teach you how to build a complex progressive web app with Angular 12 (ivy), Material Design, and Firebase. It starts from absolute basics ...]]>"
         Price="20" />
     <Row ID="firestore_modeling_course" Title="Firestore Data Modeling"
         Link="https://fireship.io/courses/firestore-data-modeling/"
         ImageLink="https://fireship.io/img/courses/firestore-data-modeling.png" Categories="Database"
-        Description="The Firestore Data Modeling Course provides a foundation for modeling data relationships in NoSQL, while optimizing queries for performance, cost, and complexity. Determining the optimal data model in Cloud Firestore is not an easy task because you need to anticipate your app's UI/UX requirements in advance. Failure to consider the tradeoffs between various data models could lead to poor app performance and unnecessary cloud computing expenses."
+        Description="<![CDATA[The Firestore Data Modeling Course provides a foundation for modeling data relationships in NoSQL, while optimizing queries for performance, cost, and complexity. Determining ...]]>"
         Price="10" />
 </Records>
