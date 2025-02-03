@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <id>nextjs_course</id>
+        <title>Next.js Full Course</title>
+        <link>https://fireship.io/courses/nextjs/</link>
+        <description>Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/nextjs.png</image_link>
+        <categories>Web Development</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>deno_course</id>
+        <title>Deno Full Course</title>
+        <link>https://fireship.io/courses/deno/</link>
+        <description>Deno - The Full Course is a hands-on tutorial where you will build a complete web app with Deno, using zero 3rd-party dependencies to master TypeScript and Web Platform APIs.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/deno.png</image_link>
+        <categories>Backend Development</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>sveltekit_course</id>
+        <title>SvelteKit Full Course</title>
+        <link>https://fireship.io/courses/sveltekit/</link>
+        <description>SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase - the so-called FKIT stack.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/sveltekit.png</image_link>
+        <categories>Frontend Development</categories>
+        <inventory_quantity>75</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>linux_course</id>
+        <title>Linux Full Course</title>
+        <link>https://fireship.io/courses/linux/</link>
+        <description>Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (VPS).</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/linux.png</image_link>
+        <categories>Operating Systems</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>stripe_saas_course</id>
+        <title>Stripe for SaaS</title>
+        <link>https://fireship.io/courses/stripe-saas/</link>
+        <description>Stripe for SaaS Full Course is a hands-on tutorial where you will build a monetized web app with Stripe, Next.js, and Supabase.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/stripe-saas.png</image_link>
+        <categories>Payments</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>modern_js_course</id>
+        <title>Modern JavaScript Full Course</title>
+        <link>https://fireship.io/courses/js/</link>
+        <description>The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/js.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>nextjs_firebase_course</id>
+        <title>Nextjs Firebase Full Course</title>
+        <link>https://fireship.io/courses/react-next-firebase/</link>
+        <description>Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime data from Firebase and multiple server-side rendering paradigms with Next.js</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/react-next-firebase.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>flutter_firebase_course</id>
+        <title>Flutter Firebase</title>
+        <link>https://fireship.io/courses/flutter-firebase/</link>
+        <description>Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/flutter-firebase.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>dart_course</id>
+        <title>Dart 101</title>
+        <link>https://fireship.io/courses/dart/</link>
+        <description>Dart - The Full Course is designed to teach you the fundamentals of the Dart language to prepare you for a successful journey into Flutter.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/dart.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>git_course</id>
+        <title>Git & GitHub Full Course</title>
+        <link>https://fireship.io/courses/git/</link>
+        <description>Git, GitHub, version control, software development.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/git.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>firebase_security_course</id>
+        <title>Firebase Security</title>
+        <link>https://fireship.io/courses/firebase-security/</link>
+        <description>Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules. The goal is to prepare developers for the safe and secure launch of a Firebase project.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/firebase-security.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>angular_firebase_course</id>
+        <title>Angular Firebase Project</title>
+        <link>https://fireship.io/courses/angular/</link>
+        <description>The Angular Firebase PWA Course will teach you how to build a complex progressive web app with Angular 12 (ivy), Material Design, and Firebase. It starts from absolute basics and eventually culminates with the deployment of a server-rendered PWA on Google Cloud Run.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/angular-firebase.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    </Product>
+        <id>firestore_modeling_course</id>
+        <title>Firestore Data Modeling</title>
+        <link>https://fireship.io/courses/firestore-data-modeling/</link>
+        <description>The Firestore Data Modeling Course provides a foundation for modeling data relationships in NoSQL, while optimizing queries for performance, cost, and complexity. Determining the optimal data model in Cloud Firestore is not an easy task because you need to anticipate your app’s UI/UX requirements in advance. Failure to consider the tradeoffs between various data models could lead to poor app performance and/or unnecessary cloud computing expenses. The goal of this course is to teach you the concepts necessary to make good decisions related to data modeling that minimize costs and maximize read performance.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/firestore-data-modeling.png</image_link>
+        <categories>Programming</categories>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+<Products>
