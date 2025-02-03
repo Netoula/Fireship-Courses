@@ -4,7 +4,7 @@
         <id>nextjs_course</id>
         <title>Next.js Full Course</title>
         <link>https://fireship.io/courses/nextjs/</link>
-        <description>Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.</description>
+        <description>Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies.</description>
         <price>20</price>
         <image_link>https://fireship.io/img/courses/nextjs.png</image_link>
         <categories>Web Development</categories>
@@ -26,7 +26,7 @@
         <id>sveltekit_course</id>
         <title>SvelteKit Full Course</title>
         <link>https://fireship.io/courses/sveltekit/</link>
-        <description>SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase - the so-called FKIT stack.</description>
+        <description>SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase.</description>
         <price>20</price>
         <image_link>https://fireship.io/img/courses/sveltekit.png</image_link>
         <categories>Frontend Development</categories>
@@ -37,7 +37,7 @@
         <id>linux_course</id>
         <title>Linux Full Course</title>
         <link>https://fireship.io/courses/linux/</link>
-        <description>Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (VPS).</description>
+        <description>Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system.</description>
         <price>20</price>
         <image_link>https://fireship.io/img/courses/linux.png</image_link>
         <categories>Operating Systems</categories>
@@ -59,7 +59,7 @@
         <id>modern_js_course</id>
         <title>Modern JavaScript Full Course</title>
         <link>https://fireship.io/courses/js/</link>
-        <description>The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript.</description>
+        <description>The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks.</description>
         <price>20</price>
         <image_link>https://fireship.io/img/courses/js.png</image_link>
         <categories>Programming</categories>
@@ -67,25 +67,36 @@
         <inventory_policy>1</inventory_policy>
     </Product>
     <Product>
-        <id>nextjs_firebase_course</id>
-        <title>Next.js Firebase Full Course</title>
-        <link>https://fireship.io/courses/react-next-firebase/</link>
-        <description>Next.js Firebase - The Full Course takes you from zero to a production-ready hybrid-rendered webapp. Learn how to build a high-performance React app that features realtime data from Firebase and multiple server-side rendering paradigms with Next.js.</description>
-        <price>20</price>
-        <image_link>https://fireship.io/img/courses/react-next-firebase.png</image_link>
-        <categories>Web Development</categories>
-        <inventory_quantity>45</inventory_quantity>
+        <id>firebase_security_course</id>
+        <title>Firebase Security</title>
+        <link>https://fireship.io/courses/firebase-security/</link>
+        <description>Firebase Security - The Full Course will teach you how to write, organize, and test Firestore security rules.</description>
+        <price>10</price>
+        <image_link>https://fireship.io/img/courses/firebase-security.png</image_link>
+        <categories>Security</categories>
+        <inventory_quantity>85</inventory_quantity>
         <inventory_policy>1</inventory_policy>
     </Product>
     <Product>
-        <id>flutter_firebase_course</id>
-        <title>Flutter Firebase</title>
-        <link>https://fireship.io/courses/flutter-firebase/</link>
-        <description>Flutter Firebase - The Full Course will take you from zero to a complex production-ready iOS or Android app using real-world cloud infrastructure.</description>
+        <id>git_course</id>
+        <title>Git &amp; GitHub Full Course</title>
+        <link>https://fireship.io/courses/git/</link>
+        <description>The Git &amp; GitHub Full Course teaches you how to use Git for version control, collaborate on GitHub, and improve your software development workflow.</description>
+        <price>10</price>
+        <image_link>https://fireship.io/img/courses/git.png</image_link>
+        <categories>Version Control</categories>
+        <inventory_quantity>70</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>angular_firebase_course</id>
+        <title>Angular Firebase Project</title>
+        <link>https://fireship.io/courses/angular/</link>
+        <description>The Angular Firebase PWA Course will teach you how to build a complex progressive web app with Angular 12.</description>
         <price>20</price>
-        <image_link>https://fireship.io/img/courses/flutter-firebase.png</image_link>
-        <categories>Mobile Development</categories>
-        <inventory_quantity>55</inventory_quantity>
+        <image_link>https://fireship.io/img/courses/angular-firebase.png</image_link>
+        <categories>Web Development</categories>
+        <inventory_quantity>40</inventory_quantity>
         <inventory_policy>1</inventory_policy>
     </Product>
 </Products>
