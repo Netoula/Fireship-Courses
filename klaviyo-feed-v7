@@ -92,7 +92,7 @@
     </Product>
     <Product>
         <id>git_course</id>
-        <title>Git & GitHub Full Course</title>
+        <title>Git/GitHub Full Course</title>
         <link>https://fireship.io/courses/git/</link>
         <description>Git, GitHub, version control, software development.</description>
         <price>20</price>
