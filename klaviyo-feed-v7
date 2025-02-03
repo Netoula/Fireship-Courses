@@ -61,7 +61,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>nextjs_firebase_course</id>
         <title>Nextjs Firebase Full Course</title>
         <link>https://fireship.io/courses/react-next-firebase/</link>
@@ -71,7 +71,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>flutter_firebase_course</id>
         <title>Flutter Firebase</title>
         <link>https://fireship.io/courses/flutter-firebase/</link>
@@ -81,7 +81,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>dart_course</id>
         <title>Dart 101</title>
         <link>https://fireship.io/courses/dart/</link>
@@ -91,7 +91,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>git_course</id>
         <title>Git & GitHub Full Course</title>
         <link>https://fireship.io/courses/git/</link>
@@ -101,7 +101,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>firebase_security_course</id>
         <title>Firebase Security</title>
         <link>https://fireship.io/courses/firebase-security/</link>
@@ -111,7 +111,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>angular_firebase_course</id>
         <title>Angular Firebase Project</title>
         <link>https://fireship.io/courses/angular/</link>
@@ -121,7 +121,7 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-    </Product>
+    <Product>
         <id>firestore_modeling_course</id>
         <title>Firestore Data Modeling</title>
         <link>https://fireship.io/courses/firestore-data-modeling/</link>
@@ -131,4 +131,4 @@
         <categories>Programming</categories>
         <inventory_policy>1</inventory_policy>
     </Product>
-<Products>
+</Products>
