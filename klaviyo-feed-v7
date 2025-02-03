@@ -28,7 +28,6 @@
         <price>20</price>
         <image_link>https://fireship.io/img/courses/sveltekit.png</image_link>
         <categories>Frontend Development</categories>
-        <inventory_quantity>75</inventory_quantity>
         <inventory_policy>1</inventory_policy>
     </Product>
     <Product>
