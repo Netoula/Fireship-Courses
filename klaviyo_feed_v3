@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <id>nextjs_course</id>
+        <title>Next.js Full Course</title>
+        <link>https://fireship.io/courses/nextjs/</link>
+        <description>Next.js - The Full Course provides an in-depth look into the Next.js App Router, including its ability to support multiple rendering modes and data-fetching strategies. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/nextjs.png</image_link>
+        <categories>Web Development</categories>
+        <inventory_quantity>100</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>deno_course</id>
+        <title>Deno Full Course</title>
+        <link>https://fireship.io/courses/deno/</link>
+        <description>Deno - The Full Course is a hands-on tutorial where you will build a complete web app with Deno, using zero 3rd-party dependencies to master TypeScript and Web Platform APIs.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/deno.png</image_link>
+        <categories>Backend Development</categories>
+        <inventory_quantity>50</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>sveltekit_course</id>
+        <title>SvelteKit Full Course</title>
+        <link>https://fireship.io/courses/sveltekit/</link>
+        <description>SvelteKit - The Full Course is a hands-on tutorial where you will build a complete web app with SvelteKit and Firebase - the so-called FKIT stack.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/sveltekit.png</image_link>
+        <categories>Frontend Development</categories>
+        <inventory_quantity>75</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>linux_course</id>
+        <title>Linux Full Course</title>
+        <link>https://fireship.io/courses/linux/</link>
+        <description>Linux - The Full Course is a hands-on tutorial where you will learn the powerful skill of administering a Linux system to self-host your own code on a Virtual Private Server (VPS).</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/linux.png</image_link>
+        <categories>Operating Systems</categories>
+        <inventory_quantity>60</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>stripe_saas_course</id>
+        <title>Stripe for SaaS</title>
+        <link>https://fireship.io/courses/stripe-saas/</link>
+        <description>Stripe for SaaS Full Course is a hands-on tutorial where you will build a monetized web app with Stripe, Next.js, and Supabase.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/stripe-saas.png</image_link>
+        <categories>Payments</categories>
+        <inventory_quantity>30</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+    <Product>
+        <id>modern_js_course</id>
+        <title>Modern JavaScript Full Course</title>
+        <link>https://fireship.io/courses/js/</link>
+        <description>The JavaScript Course teaches you how to build modern applications with vanilla JavaScript - no React, no TypeScript, no Frameworks - just plain old JavaScript.</description>
+        <price>20</price>
+        <image_link>https://fireship.io/img/courses/js.png</image_link>
+        <categories>Programming</categories>
+        <inventory_quantity>80</inventory_quantity>
+        <inventory_policy>1</inventory_policy>
+    </Product>
+</Products>
